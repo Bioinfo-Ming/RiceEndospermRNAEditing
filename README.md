@@ -1,6 +1,5 @@
 # RiceEndospermRNAEditing
-### Computational scripts used to perform analyses for RNA editing during rice endosperm development.
-###
+Computational scripts used to perform analyses for RNA editing during rice endosperm development.
 ###
 
 ### 01.C_to_U_editing_distribution.R
