@@ -38,5 +38,5 @@ Editing frequency of editing events in mitochondrial genes during rice endoserpm
 Distribution of RNA editing sites during rice endosperm development (at 3, 6, 9, 12, and 15 days after flowering).
 
 ### 13.Total_CDS_recoding_sites_per_gene.R
-### 14,Hydrophobic_amino_acid_before_after_editing.R
+### 14.Hydrophobic_amino_acid_before_after_editing.R
 Normalized CDS-recoding site counts in different grouped genes as well as their corresponding change counts of amino acid hydrophobicity before and after editing.
