@@ -1,6 +1,9 @@
 # RiceEndospermRNAEditing
 Computational scripts used to perform analyses for rice endosperm development.
 
+### 01.C_to_U_editing_distribution.R
+Distribution of editing frequency of 298 C-to-U editing sites.
+
 ### 01.distribution_site_region.R
 The distribution of C-to-U editing sites in different regions, including CDS-recoding, CDS-synonymous, intronic, pseudogenic and intergenic regions.
 
