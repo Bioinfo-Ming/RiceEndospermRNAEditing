@@ -3,16 +3,15 @@
 
 ### 01.C_to_U_editing_distribution.R
 Distribution of editing frequency of 298 C-to-U editing sites.
-###
+
 
 ### 02.distribution_site_region.R
 The distribution of C-to-U editing sites in different regions, including CDS-recoding, CDS-synonymous, intronic, pseudogenic and intergenic regions.
-### 
 
-###
+
 ### 03.editing_frequency_developmental_stage.R
 Editing frequencies of 247 C-to-U sites beyond overlapped genes in CDS (179 for CDS-recoding and 31 for CDS-synonymous), intronic (25) and intergenic (12) regions during five rice endosperm development stages.
-###
+
 
 ### 04.editing_frequency_developmental_stage.R
 Editing variabilities (Tau value) of these 247 C-to-U sites across five stages during rice endosperm development.
