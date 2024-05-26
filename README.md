@@ -3,7 +3,7 @@
 
 ### 01.C_to_U_editing_distribution.R
 Distribution of editing frequency of 298 C-to-U editing sites.
-### 
+###
 
 ### 02.distribution_site_region.R
 The distribution of C-to-U editing sites in different regions, including CDS-recoding, CDS-synonymous, intronic, pseudogenic and intergenic regions.
