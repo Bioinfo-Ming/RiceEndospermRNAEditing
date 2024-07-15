@@ -39,3 +39,8 @@ Distribution of RNA editing sites during rice endosperm development (at 3, 6, 9,
 ### 13.Total_CDS_recoding_sites_per_gene.R
 ### 14.Hydrophobic_amino_acid_before_after_editing.R
 Normalized CDS-recoding site counts in different grouped genes as well as their corresponding change counts of amino acid hydrophobicity before and after editing.
+
+### 15.quality_control_RNA_seq.sh
+### 16.hisat2_mapping_RNA_seq.sh
+### 17.editing_site_reditools.sh
+Identification of RNA editing events.
